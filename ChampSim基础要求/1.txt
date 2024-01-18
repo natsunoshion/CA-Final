@@ -1,0 +1,3511 @@
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: no
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: next_line
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: pangloss
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: markov
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ip_stride
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: no
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: next_line
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: no
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: next_line
+LLC Replacement: drrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: bip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: ship
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: dip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: red_lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: glider
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: srrip
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp+red
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: shippp
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: lru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: lfu
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: mru
+===========================
+L1D Prefetcher: pangloss
+L2C Prefetcher: ghb
+LLC Prefetcher: ip_stride
+LLC Replacement: drrip
+===========================
+

@@ -1,0 +1,218 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/src/ooo_cpu.o",
+      "src/ooo_cpu.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/src/ooo_cpu.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/src/ooo_cpu.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/src/cache.o",
+      "src/cache.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/src/cache.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/src/cache.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/src/main.o",
+      "src/main.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/src/main.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/src/uncore.o",
+      "src/uncore.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/src/uncore.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/src/uncore.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/src/dram_controller.o",
+      "src/dram_controller.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/src/dram_controller.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/src/dram_controller.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/src/block.o",
+      "src/block.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/src/block.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/src/block.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/branch/branch_predictor.o",
+      "branch/branch_predictor.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/branch/branch_predictor.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/branch/branch_predictor.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/replacement/base_replacement.o",
+      "replacement/base_replacement.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/replacement/base_replacement.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/replacement/base_replacement.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/replacement/llc_replacement.o",
+      "replacement/llc_replacement.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/replacement/llc_replacement.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/replacement/llc_replacement.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/prefetcher/l1d_prefetcher.o",
+      "prefetcher/l1d_prefetcher.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/prefetcher/l1d_prefetcher.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/prefetcher/l1d_prefetcher.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/prefetcher/llc_prefetcher.o",
+      "prefetcher/llc_prefetcher.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/prefetcher/llc_prefetcher.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/prefetcher/llc_prefetcher.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-O3",
+      "-std=c++11",
+      "-D_DEFAULT_SOURCE",
+      "-c",
+      "-g",
+      "-Iinc",
+      "-o",
+      "obj/prefetcher/l2c_prefetcher.o",
+      "prefetcher/l2c_prefetcher.cc"
+    ],
+    "directory": "/home/lollikit/computer_architecture/ChampSim",
+    "file": "/home/lollikit/computer_architecture/ChampSim/prefetcher/l2c_prefetcher.cc",
+    "output": "/home/lollikit/computer_architecture/ChampSim/obj/prefetcher/l2c_prefetcher.o"
+  }
+]

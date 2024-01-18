@@ -1,0 +1,1176 @@
+next_line-GHB-next_line-bip:
+IPC: 0.6834357142857144
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 62.857142857142854%
+LLC Hit Rate: 35.57142857142857%
+--------------------------------
+next_line-GHB-next_line-dip:
+IPC: 0.6891828571428571
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.0%
+LLC Hit Rate: 36.42857142857143%
+--------------------------------
+next_line-GHB-next_line-drrip:
+IPC: 0.6797442857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 62.285714285714285%
+LLC Hit Rate: 44.57142857142857%
+--------------------------------
+next_line-GHB-next_line-glider:
+IPC: 0.6827685714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.42857142857143%
+LLC Hit Rate: 41.285714285714285%
+--------------------------------
+next_line-GHB-next_line-hawkeye:
+IPC: 0.6856871428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 45.714285714285715%
+--------------------------------
+next_line-GHB-next_line-lfu:
+IPC: 0.6838942857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 44.57142857142857%
+--------------------------------
+next_line-GHB-next_line-lru:
+IPC: 0.6817014285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 45.42857142857143%
+--------------------------------
+next_line-GHB-next_line-mru:
+IPC: 0.6882357142857144
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 36.714285714285715%
+--------------------------------
+next_line-GHB-next_line-red:
+IPC: 0.6778014285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 42.0%
+--------------------------------
+next_line-GHB-next_line-red_lfu:
+IPC: 0.6832628571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 42.285714285714285%
+--------------------------------
+next_line-GHB-next_line-ship:
+IPC: 0.6806
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.42857142857143%
+LLC Hit Rate: 38.285714285714285%
+--------------------------------
+next_line-GHB-next_line-shippp+red:
+IPC: 0.6834571428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.0%
+LLC Hit Rate: 36.0%
+--------------------------------
+next_line-GHB-next_line-shippp:
+IPC: 0.6853071428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 62.857142857142854%
+LLC Hit Rate: 37.57142857142857%
+--------------------------------
+next_line-GHB-next_line-srrip:
+IPC: 0.6786814285714285
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 43.42857142857143%
+--------------------------------
+next_line-GHB-no-bip:
+IPC: 0.6801842857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 62.57142857142857%
+LLC Hit Rate: 28.285714285714285%
+--------------------------------
+next_line-GHB-no-dip:
+IPC: 0.6826014285714285
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 62.857142857142854%
+LLC Hit Rate: 28.0%
+--------------------------------
+next_line-GHB-no-drrip:
+IPC: 0.6755142857142856
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 62.42857142857143%
+LLC Hit Rate: 36.0%
+--------------------------------
+next_line-GHB-no-glider:
+IPC: 0.6763399999999999
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 63.285714285714285%
+LLC Hit Rate: 32.857142857142854%
+--------------------------------
+next_line-GHB-no-hawkeye:
+IPC: 0.6846557142857144
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 38.0%
+--------------------------------
+next_line-GHB-no-lfu:
+IPC: 0.6786271428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 35.57142857142857%
+--------------------------------
+next_line-GHB-no-lru:
+IPC: 0.6751414285714287
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 35.42857142857143%
+--------------------------------
+next_line-GHB-no-mru:
+IPC: 0.6820728571428571
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 63.285714285714285%
+LLC Hit Rate: 28.285714285714285%
+--------------------------------
+next_line-GHB-no-red:
+IPC: 0.6777214285714285
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 63.285714285714285%
+LLC Hit Rate: 34.714285714285715%
+--------------------------------
+next_line-GHB-no-red_lfu:
+IPC: 0.6806985714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 63.142857142857146%
+LLC Hit Rate: 35.0%
+--------------------------------
+next_line-GHB-no-ship:
+IPC: 0.678482857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 62.42857142857143%
+LLC Hit Rate: 30.714285714285715%
+--------------------------------
+next_line-GHB-no-shippp+red:
+IPC: 0.6887385714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 62.714285714285715%
+LLC Hit Rate: 31.428571428571427%
+--------------------------------
+next_line-GHB-no-shippp:
+IPC: 0.6867614285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 62.42857142857143%
+LLC Hit Rate: 30.714285714285715%
+--------------------------------
+next_line-GHB-no-srrip:
+IPC: 0.6752585714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 63.0%
+LLC Hit Rate: 34.714285714285715%
+--------------------------------
+next_line-Markkefu-next_line-bip:
+IPC: 0.6726828571428571
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.142857142857146%
+LLC Hit Rate: 29.0%
+--------------------------------
+next_line-Markkefu-next_line-dip:
+IPC: 0.6793128571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.57142857142857%
+LLC Hit Rate: 29.0%
+--------------------------------
+next_line-Markkefu-next_line-drrip:
+IPC: 0.6783257142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.42857142857143%
+LLC Hit Rate: 46.714285714285715%
+--------------------------------
+next_line-Markkefu-next_line-glider:
+IPC: 0.6773657142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.285714285714285%
+LLC Hit Rate: 41.142857142857146%
+--------------------------------
+next_line-Markkefu-next_line-hawkeye:
+IPC: 0.6830042857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 48.142857142857146%
+--------------------------------
+next_line-Markkefu-next_line-lfu:
+IPC: 0.6748614285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.57142857142857%
+LLC Hit Rate: 46.714285714285715%
+--------------------------------
+next_line-Markkefu-next_line-lru:
+IPC: 0.6778057142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.57142857142857%
+LLC Hit Rate: 48.142857142857146%
+--------------------------------
+next_line-Markkefu-next_line-mru:
+IPC: 0.6786614285714284
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 28.571428571428573%
+--------------------------------
+next_line-Markkefu-next_line-red:
+IPC: 0.6778942857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.714285714285715%
+LLC Hit Rate: 45.57142857142857%
+--------------------------------
+next_line-Markkefu-next_line-red_lfu:
+IPC: 0.6828271428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 44.57142857142857%
+--------------------------------
+next_line-Markkefu-next_line-ship:
+IPC: 0.6776757142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.57142857142857%
+LLC Hit Rate: 41.42857142857143%
+--------------------------------
+next_line-Markkefu-next_line-shippp+red:
+IPC: 0.6834957142857144
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.42857142857143%
+LLC Hit Rate: 38.285714285714285%
+--------------------------------
+next_line-Markkefu-next_line-shippp:
+IPC: 0.6870685714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.857142857142854%
+LLC Hit Rate: 39.857142857142854%
+--------------------------------
+next_line-Markkefu-next_line-srrip:
+IPC: 0.6779985714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 46.57142857142857%
+--------------------------------
+next_line-Markkefu-no-bip:
+IPC: 0.6731942857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.285714285714285%
+LLC Hit Rate: 25.285714285714285%
+--------------------------------
+next_line-Markkefu-no-dip:
+IPC: 0.6677514285714287
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 25.714285714285715%
+--------------------------------
+next_line-Markkefu-no-drrip:
+IPC: 0.6790671428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.857142857142854%
+LLC Hit Rate: 42.142857142857146%
+--------------------------------
+next_line-Markkefu-no-glider:
+IPC: 0.6627114285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.285714285714285%
+LLC Hit Rate: 37.285714285714285%
+--------------------------------
+next_line-Markkefu-no-hawkeye:
+IPC: 0.66352
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.142857142857146%
+LLC Hit Rate: 43.57142857142857%
+--------------------------------
+next_line-Markkefu-no-lfu:
+IPC: 0.6795642857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 41.714285714285715%
+--------------------------------
+next_line-Markkefu-no-lru:
+IPC: 0.6552842857142858
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.285714285714285%
+LLC Hit Rate: 43.42857142857143%
+--------------------------------
+next_line-Markkefu-no-mru:
+IPC: 0.6533114285714285
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.285714285714285%
+LLC Hit Rate: 23.714285714285715%
+--------------------------------
+next_line-Markkefu-no-red:
+IPC: 0.6654142857142856
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.42857142857143%
+LLC Hit Rate: 41.285714285714285%
+--------------------------------
+next_line-Markkefu-no-red_lfu:
+IPC: 0.6684328571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.42857142857143%
+LLC Hit Rate: 39.857142857142854%
+--------------------------------
+next_line-Markkefu-no-ship:
+IPC: 0.6607157142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.42857142857143%
+LLC Hit Rate: 36.714285714285715%
+--------------------------------
+next_line-Markkefu-no-shippp+red:
+IPC: 0.6702085714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.714285714285715%
+LLC Hit Rate: 37.0%
+--------------------------------
+next_line-Markkefu-no-shippp:
+IPC: 0.6812542857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.285714285714285%
+LLC Hit Rate: 36.857142857142854%
+--------------------------------
+next_line-Markkefu-no-srrip:
+IPC: 0.6610885714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.42857142857143%
+LLC Hit Rate: 41.714285714285715%
+--------------------------------
+next_line-ip_stride-next_line-bip:
+IPC: 0.6726728571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.57142857142857%
+LLC Hit Rate: 36.857142857142854%
+--------------------------------
+next_line-ip_stride-next_line-dip:
+IPC: 0.6788928571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.285714285714285%
+LLC Hit Rate: 38.57142857142857%
+--------------------------------
+next_line-ip_stride-next_line-drrip:
+IPC: 0.6678985714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.42857142857143%
+LLC Hit Rate: 45.42857142857143%
+--------------------------------
+next_line-ip_stride-next_line-glider:
+IPC: 0.6720957142857144
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.57142857142857%
+LLC Hit Rate: 42.57142857142857%
+--------------------------------
+next_line-ip_stride-next_line-hawkeye:
+IPC: 0.6729771428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 46.857142857142854%
+--------------------------------
+next_line-ip_stride-next_line-lfu:
+IPC: 0.6732942857142856
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 45.857142857142854%
+--------------------------------
+next_line-ip_stride-next_line-lru:
+IPC: 0.6713614285714284
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 46.42857142857143%
+--------------------------------
+next_line-ip_stride-next_line-mru:
+IPC: 0.6786457142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 38.57142857142857%
+--------------------------------
+next_line-ip_stride-next_line-red:
+IPC: 0.66493
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 43.57142857142857%
+--------------------------------
+next_line-ip_stride-next_line-red_lfu:
+IPC: 0.67156
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 44.142857142857146%
+--------------------------------
+next_line-ip_stride-next_line-ship:
+IPC: 0.6673
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.42857142857143%
+LLC Hit Rate: 40.0%
+--------------------------------
+next_line-ip_stride-next_line-shippp+red:
+IPC: 0.6669514285714285
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.42857142857143%
+LLC Hit Rate: 37.857142857142854%
+--------------------------------
+next_line-ip_stride-next_line-shippp:
+IPC: 0.6757571428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 38.857142857142854%
+--------------------------------
+next_line-ip_stride-next_line-srrip:
+IPC: 0.6667542857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 44.714285714285715%
+--------------------------------
+next_line-ip_stride-no-bip:
+IPC: 0.6460999999999999
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 28.714285714285715%
+--------------------------------
+next_line-ip_stride-no-dip:
+IPC: 0.6483957142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 29.285714285714285%
+--------------------------------
+next_line-ip_stride-no-drrip:
+IPC: 0.6431285714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.285714285714285%
+LLC Hit Rate: 35.42857142857143%
+--------------------------------
+next_line-ip_stride-no-glider:
+IPC: 0.6444357142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 35.714285714285715%
+--------------------------------
+next_line-ip_stride-no-hawkeye:
+IPC: 0.6498757142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 38.285714285714285%
+--------------------------------
+next_line-ip_stride-no-lfu:
+IPC: 0.6456257142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 36.42857142857143%
+--------------------------------
+next_line-ip_stride-no-lru:
+IPC: 0.6416785714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 35.285714285714285%
+--------------------------------
+next_line-ip_stride-no-mru:
+IPC: 0.6479742857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.142857142857146%
+LLC Hit Rate: 29.571428571428573%
+--------------------------------
+next_line-ip_stride-no-red:
+IPC: 0.6446314285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 34.42857142857143%
+--------------------------------
+next_line-ip_stride-no-red_lfu:
+IPC: 0.6479528571428571
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 35.857142857142854%
+--------------------------------
+next_line-ip_stride-no-ship:
+IPC: 0.6471500000000001
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 58.57142857142857%
+LLC Hit Rate: 31.714285714285715%
+--------------------------------
+next_line-ip_stride-no-shippp+red:
+IPC: 0.6552528571428571
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.285714285714285%
+LLC Hit Rate: 32.142857142857146%
+--------------------------------
+next_line-ip_stride-no-shippp:
+IPC: 0.6549057142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 58.142857142857146%
+LLC Hit Rate: 32.142857142857146%
+--------------------------------
+next_line-ip_stride-no-srrip:
+IPC: 0.6415857142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 59.0%
+LLC Hit Rate: 34.57142857142857%
+--------------------------------
+next_line-next_line-next_line-bip:
+IPC: 0.6736300000000001
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.142857142857146%
+LLC Hit Rate: 36.857142857142854%
+--------------------------------
+next_line-next_line-next_line-dip:
+IPC: 0.6805328571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.285714285714285%
+LLC Hit Rate: 38.57142857142857%
+--------------------------------
+next_line-next_line-next_line-drrip:
+IPC: 0.6686528571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.285714285714285%
+LLC Hit Rate: 46.57142857142857%
+--------------------------------
+next_line-next_line-next_line-glider:
+IPC: 0.6727328571428571
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 44.142857142857146%
+--------------------------------
+next_line-next_line-next_line-hawkeye:
+IPC: 0.6753585714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.0%
+LLC Hit Rate: 48.0%
+--------------------------------
+next_line-next_line-next_line-lfu:
+IPC: 0.6755199999999999
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.0%
+LLC Hit Rate: 47.42857142857143%
+--------------------------------
+next_line-next_line-next_line-lru:
+IPC: 0.6727285714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 47.857142857142854%
+--------------------------------
+next_line-next_line-next_line-mru:
+IPC: 0.6801528571428571
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.142857142857146%
+LLC Hit Rate: 39.142857142857146%
+--------------------------------
+next_line-next_line-next_line-red:
+IPC: 0.66554
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.0%
+LLC Hit Rate: 45.0%
+--------------------------------
+next_line-next_line-next_line-red_lfu:
+IPC: 0.6715871428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.0%
+LLC Hit Rate: 45.57142857142857%
+--------------------------------
+next_line-next_line-next_line-ship:
+IPC: 0.6686928571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.57142857142857%
+LLC Hit Rate: 41.0%
+--------------------------------
+next_line-next_line-next_line-shippp+red:
+IPC: 0.6701771428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.285714285714285%
+LLC Hit Rate: 39.142857142857146%
+--------------------------------
+next_line-next_line-next_line-shippp:
+IPC: 0.6719314285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.285714285714285%
+LLC Hit Rate: 39.57142857142857%
+--------------------------------
+next_line-next_line-next_line-srrip:
+IPC: 0.668612857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.0%
+LLC Hit Rate: 45.857142857142854%
+--------------------------------
+next_line-next_line-no-bip:
+IPC: 0.6437928571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 30.142857142857142%
+--------------------------------
+next_line-next_line-no-dip:
+IPC: 0.6465985714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.142857142857146%
+LLC Hit Rate: 30.714285714285715%
+--------------------------------
+next_line-next_line-no-drrip:
+IPC: 0.6377885714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.285714285714285%
+LLC Hit Rate: 38.142857142857146%
+--------------------------------
+next_line-next_line-no-glider:
+IPC: 0.6439771428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.0%
+LLC Hit Rate: 37.714285714285715%
+--------------------------------
+next_line-next_line-no-hawkeye:
+IPC: 0.6463014285714285
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.57142857142857%
+LLC Hit Rate: 40.42857142857143%
+--------------------------------
+next_line-next_line-no-lfu:
+IPC: 0.6428357142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.714285714285715%
+LLC Hit Rate: 38.857142857142854%
+--------------------------------
+next_line-next_line-no-lru:
+IPC: 0.6372871428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.42857142857143%
+LLC Hit Rate: 37.714285714285715%
+--------------------------------
+next_line-next_line-no-mru:
+IPC: 0.645627142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 58.0%
+LLC Hit Rate: 31.0%
+--------------------------------
+next_line-next_line-no-red:
+IPC: 0.639687142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.42857142857143%
+LLC Hit Rate: 36.57142857142857%
+--------------------------------
+next_line-next_line-no-red_lfu:
+IPC: 0.6450485714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.714285714285715%
+LLC Hit Rate: 38.42857142857143%
+--------------------------------
+next_line-next_line-no-ship:
+IPC: 0.6447885714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.285714285714285%
+LLC Hit Rate: 34.285714285714285%
+--------------------------------
+next_line-next_line-no-shippp+red:
+IPC: 0.6504642857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.857142857142854%
+LLC Hit Rate: 34.285714285714285%
+--------------------------------
+next_line-next_line-no-shippp:
+IPC: 0.6514414285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 56.857142857142854%
+LLC Hit Rate: 34.142857142857146%
+--------------------------------
+next_line-next_line-no-srrip:
+IPC: 0.6378942857142859
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 57.42857142857143%
+LLC Hit Rate: 37.0%
+--------------------------------
+next_line-no-next_line-bip:
+IPC: 0.6358157142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 52.714285714285715%
+LLC Hit Rate: 38.0%
+--------------------------------
+next_line-no-next_line-dip:
+IPC: 0.6433157142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.57142857142857%
+LLC Hit Rate: 39.285714285714285%
+--------------------------------
+next_line-no-next_line-drrip:
+IPC: 0.6328242857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 46.0%
+--------------------------------
+next_line-no-next_line-glider:
+IPC: 0.6373085714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.714285714285715%
+LLC Hit Rate: 42.857142857142854%
+--------------------------------
+next_line-no-next_line-hawkeye:
+IPC: 0.6395371428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 47.42857142857143%
+--------------------------------
+next_line-no-next_line-lfu:
+IPC: 0.6386771428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 46.285714285714285%
+--------------------------------
+next_line-no-next_line-lru:
+IPC: 0.6351899999999999
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 46.714285714285715%
+--------------------------------
+next_line-no-next_line-mru:
+IPC: 0.6426757142857144
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 39.142857142857146%
+--------------------------------
+next_line-no-next_line-red:
+IPC: 0.6310914285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 43.42857142857143%
+--------------------------------
+next_line-no-next_line-red_lfu:
+IPC: 0.6372428571428571
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 44.42857142857143%
+--------------------------------
+next_line-no-next_line-ship:
+IPC: 0.6335785714285713
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.142857142857146%
+LLC Hit Rate: 40.285714285714285%
+--------------------------------
+next_line-no-next_line-shippp+red:
+IPC: 0.63659
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.714285714285715%
+LLC Hit Rate: 37.857142857142854%
+--------------------------------
+next_line-no-next_line-shippp:
+IPC: 0.6400214285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 52.857142857142854%
+LLC Hit Rate: 39.42857142857143%
+--------------------------------
+next_line-no-next_line-srrip:
+IPC: 0.6340071428571427
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 45.0%
+--------------------------------
+next_line-no-no-bip:
+IPC: 0.6100785714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 53.42857142857143%
+LLC Hit Rate: 29.0%
+--------------------------------
+next_line-no-no-dip:
+IPC: 0.6118699999999999
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 53.57142857142857%
+LLC Hit Rate: 30.0%
+--------------------------------
+next_line-no-no-drrip:
+IPC: 0.6002957142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.14285714285714%
+L2C Hit Rate: 52.857142857142854%
+LLC Hit Rate: 35.714285714285715%
+--------------------------------
+next_line-no-no-glider:
+IPC: 0.6114728571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 36.285714285714285%
+--------------------------------
+next_line-no-no-hawkeye:
+IPC: 0.6095657142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 38.57142857142857%
+--------------------------------
+next_line-no-no-lfu:
+IPC: 0.6083171428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 36.714285714285715%
+--------------------------------
+next_line-no-no-lru:
+IPC: 0.6000571428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.14285714285714%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 35.285714285714285%
+--------------------------------
+next_line-no-no-mru:
+IPC: 0.6119271428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 29.857142857142858%
+--------------------------------
+next_line-no-no-red:
+IPC: 0.6028785714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.14285714285714%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 34.285714285714285%
+--------------------------------
+next_line-no-no-red_lfu:
+IPC: 0.6101442857142858
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 36.142857142857146%
+--------------------------------
+next_line-no-no-ship:
+IPC: 0.6093599999999999
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 53.57142857142857%
+LLC Hit Rate: 32.142857142857146%
+--------------------------------
+next_line-no-no-shippp+red:
+IPC: 0.6134971428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 53.0%
+LLC Hit Rate: 32.714285714285715%
+--------------------------------
+next_line-no-no-shippp:
+IPC: 0.6144014285714284
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.28571428571429%
+L2C Hit Rate: 52.857142857142854%
+LLC Hit Rate: 32.714285714285715%
+--------------------------------
+next_line-no-no-srrip:
+IPC: 0.6027199999999999
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.14285714285714%
+L2C Hit Rate: 53.285714285714285%
+LLC Hit Rate: 34.42857142857143%
+--------------------------------
+next_line-pangloss-next_line-bip:
+IPC: 0.68477
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.28571428571429%
+LLC Hit Rate: 33.857142857142854%
+--------------------------------
+next_line-pangloss-next_line-dip:
+IPC: 0.6891857142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.14285714285714%
+LLC Hit Rate: 32.714285714285715%
+--------------------------------
+next_line-pangloss-next_line-drrip:
+IPC: 0.6838985714285715
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.0%
+LLC Hit Rate: 48.0%
+--------------------------------
+next_line-pangloss-next_line-glider:
+IPC: 0.6846285714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.0%
+LLC Hit Rate: 43.57142857142857%
+--------------------------------
+next_line-pangloss-next_line-hawkeye:
+IPC: 0.6891085714285714
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.71428571428571%
+LLC Hit Rate: 49.714285714285715%
+--------------------------------
+next_line-pangloss-next_line-lfu:
+IPC: 0.6879814285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.85714285714286%
+LLC Hit Rate: 48.0%
+--------------------------------
+next_line-pangloss-next_line-lru:
+IPC: 0.6856542857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.71428571428571%
+LLC Hit Rate: 49.42857142857143%
+--------------------------------
+next_line-pangloss-next_line-mru:
+IPC: 0.6878357142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.14285714285714%
+LLC Hit Rate: 32.57142857142857%
+--------------------------------
+next_line-pangloss-next_line-red:
+IPC: 0.6830057142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.71428571428571%
+LLC Hit Rate: 46.142857142857146%
+--------------------------------
+next_line-pangloss-next_line-red_lfu:
+IPC: 0.6884771428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.0%
+LLC Hit Rate: 45.857142857142854%
+--------------------------------
+next_line-pangloss-next_line-ship:
+IPC: 0.6872771428571429
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 70.0%
+LLC Hit Rate: 40.0%
+--------------------------------
+next_line-pangloss-next_line-shippp+red:
+IPC: 0.6913757142857142
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 70.0%
+LLC Hit Rate: 37.714285714285715%
+--------------------------------
+next_line-pangloss-next_line-shippp:
+IPC: 0.6896957142857144
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.57142857142857%
+LLC Hit Rate: 41.142857142857146%
+--------------------------------
+next_line-pangloss-next_line-srrip:
+IPC: 0.6836114285714286
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.71428571428571%
+LLC Hit Rate: 48.0%
+--------------------------------
+next_line-pangloss-no-bip:
+IPC: 0.6863957142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.85714285714286%
+LLC Hit Rate: 29.285714285714285%
+--------------------------------
+next_line-pangloss-no-dip:
+IPC: 0.6933857142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 70.0%
+LLC Hit Rate: 27.428571428571427%
+--------------------------------
+next_line-pangloss-no-drrip:
+IPC: 0.6854742857142858
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.71428571428571%
+LLC Hit Rate: 42.857142857142854%
+--------------------------------
+next_line-pangloss-no-glider:
+IPC: 0.6835771428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.71428571428571%
+LLC Hit Rate: 38.142857142857146%
+--------------------------------
+next_line-pangloss-no-hawkeye:
+IPC: 0.6932742857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.71428571428571%
+LLC Hit Rate: 44.857142857142854%
+--------------------------------
+next_line-pangloss-no-lfu:
+IPC: 0.6883842857142858
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.85714285714286%
+LLC Hit Rate: 43.0%
+--------------------------------
+next_line-pangloss-no-lru:
+IPC: 0.6855614285714287
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.85714285714286%
+LLC Hit Rate: 44.0%
+--------------------------------
+next_line-pangloss-no-mru:
+IPC: 0.6880071428571428
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.0%
+LLC Hit Rate: 28.142857142857142%
+--------------------------------
+next_line-pangloss-no-red:
+IPC: 0.6861857142857143
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.0%
+LLC Hit Rate: 42.142857142857146%
+--------------------------------
+next_line-pangloss-no-red_lfu:
+IPC: 0.6894628571428572
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.85714285714286%
+LLC Hit Rate: 41.0%
+--------------------------------
+next_line-pangloss-no-ship:
+IPC: 0.6877242857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.0%
+LLC Hit Rate: 37.285714285714285%
+--------------------------------
+next_line-pangloss-no-shippp+red:
+IPC: 0.69785
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.14285714285714%
+LLC Hit Rate: 37.142857142857146%
+--------------------------------
+next_line-pangloss-no-shippp:
+IPC: 0.6981985714285716
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 67.85714285714286%
+LLC Hit Rate: 37.714285714285715%
+--------------------------------
+next_line-pangloss-no-srrip:
+IPC: 0.684632857142857
+branch_prediction_accuracy: 92.68029285714286
+L1D Hit Rate: 80.42857142857143%
+L2C Hit Rate: 68.0%
+LLC Hit Rate: 42.57142857142857%
+--------------------------------

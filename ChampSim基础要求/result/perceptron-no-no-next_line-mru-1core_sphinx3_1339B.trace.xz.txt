@@ -1,0 +1,10 @@
+Core_0_IPC: 0.83936
+Core_0_branch_prediction_accuracy: 97.75262
+Core_0_L1D_total_hit: 665271
+Core_0_L1D_total_miss: 85065
+Core_0_L1I_total_hit: 1221424
+Core_0_L1I_total_miss: 262
+Core_0_L2C_total_hit: 19910
+Core_0_L2C_total_miss: 71300
+Core_0_LLC_total_hit: 84377
+Core_0_LLC_total_miss: 50237
